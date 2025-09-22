@@ -33,7 +33,7 @@ Je crée des microservices, des applications web et mobiles, et j’optimise des
 ## 📫 Me contacter
 
 - [LinkedIn](https://www.linkedin.com/in/anthony-attia)  
-- [Email](mailto:ton.email@example.com)  
+- [Email](mailto:anthony.attia1@gmail.com)  
 
 ---
 
