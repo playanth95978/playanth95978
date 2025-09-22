@@ -9,23 +9,24 @@ Je crée des microservices, des applications web et mobiles, et j’optimise des
 
 - **Frontend :** Angular, Tailwind, Bootstrap  
 - **Backend :** Spring Boot, Java, REST APIs  
-- **DevOps :** Docker, Kubernetes (AWS), Helm, Kafka  
+- **DevOps :** Docker, Github actions, Jenkins, Kafka  
 - **Bases de données :** PostgreSQL  
 
 ---
 
 ## 🚀 Projets en cours / récents
 
-- Microservices REST pour la gestion d’énergie  
-- Applications web et mobiles pour suivi réseau et maintenance  
+- SITCOM: Référienciel des sites comemrciaux de l'OPT
+- CPP: Gestion des contrats revendeurs et publipostage de l'OPT
+- guichet-entreprises.nc: Déclaration de créations des entreprises en Nouvelle Calédonie. (Gouvernement de la NC)
 - API REST pour des systèmes internes et externes  
-- Projet personnel : contrôle de TV LG via React Native Expo et Node.js  
+- Mobilis (Helia Nc): Application mobile de gestions des données des forfaits de l'OPT. 
 
 ---
 
 ## 📊 GitHub Stats
 
-![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=ton_nom_utilisateur&show_icons=true&theme=radical)  
+![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=playanth95978&show_icons=true&theme=radical)  
 
 ---
 
