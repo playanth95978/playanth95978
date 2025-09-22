@@ -16,12 +16,12 @@ Je crée des microservices, des applications web et mobiles, et j’optimise des
 
 ## 🚀 Projets en cours / récents
 
-- SITCOM: Référienciel des sites comemrciaux de l'OPT
+- SITCOM: Référienciel des sites comemerciaux de l'OPT
 - CPP: Gestion des contrats revendeurs et publipostage de l'OPT
 - guichet-entreprises.nc: Déclaration de créations des entreprises en Nouvelle Calédonie. (Gouvernement de la NC)
 - API REST pour des systèmes internes et externes  
 - Mobilis (Helia Nc): Application mobile de gestions des données des forfaits de l'OPT. 
-
+- Optimal RH: Logiciel de gestions des ressources humaines (congés, planning, fiche de paie etc.) 
 ---
 
 ## 📊 GitHub Stats
