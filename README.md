@@ -67,7 +67,7 @@ Development and maintenance of scalable APIs and enterprise services.
 
 # 📊 GitHub Stats
 
-![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=playanth95978\&show_icons=true\&theme=radical)
+## 📊 GitHub Stats ![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=playanth95978&show_icons=true&theme=radical)
 
 ---
 
