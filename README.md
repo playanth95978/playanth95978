@@ -1,4 +1,3 @@
-Voici une version plus naturelle, pro et “GitHub-ready” en anglais. J’ai corrigé les formulations, rendu les projets plus lisibles pour un recruteur international, et donné un ton un peu plus moderne sans faire “corporate robot”.
 
 ---
 
