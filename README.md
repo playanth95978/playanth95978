@@ -38,36 +38,29 @@ I build web and mobile applications, REST APIs, and microservices while constant
 ---
 
 # 🚀 Projects
-
 ### 📍 SITCOM
-
 Commercial site management system for OPT (New Caledonia telecommunications company).
-
 ### 📍 CPP
-
 Reseller contract management and automated mailing platform for OPT.
-
 ### 📍 guichet-entreprises.nc
-
 Business creation declaration platform for the Government of New Caledonia.
-
 ### 📍 Mobilis (Helia NC)
-
 Mobile application for managing OPT mobile plan and usage data.
-
 ### 📍 Optimal RH
-
 Human resources management software including leave requests, planning, payroll, and employee management.
-
 ### 📍 Internal & External REST APIs
-
 Development and maintenance of scalable APIs and enterprise services.
 
 ---
 
+
+
 # 📊 GitHub Stats
 
-## 📊 GitHub Stats ![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=playanth95978&show_icons=true&theme=radical)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=playanth95978&show_icons=true&theme=transparent&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=playanth95978&layout=compact&theme=transparent&hide_border=true"/>
+</p>
 
 ---
 
